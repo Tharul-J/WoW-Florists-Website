@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content= "width=device-width, user-scalable=no">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>WoWflorists.lk</title>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<header>
+<div class="fix">
+	<div class="header">
+		<div class="logo">
+			<a href="WoWflorist.html">
+				<img src="../Common images/minilogo.png" alt="Logo" width="85px">
+			</a>
+		</div>
+		
+		<div class="search-bar">
+			<input type="text" class="search-input" placeholder="Search for anything...">
+			<button type="submit" class="search-button">Search</button>
+		</div>
+		
+		<div class="space">
+			<p style="color: #C1427D; font-size: 14.5px; font-weight: bold; text-align: center;">Hotline</p>
+			<p style="color: #C1427D; font-size: 14.5px; font-weight: bold; text-align: center;">055 1123456</p>
+		</div>
+		
+		<div class="space">
+			<a href="../Other pagers/account.html">
+				<img src="../Common images/account.png" alt="Logo" width="75px">
+			</a>
+		</div>
+		
+		<div class="space">
+			<a href="../Other pagers/cart.html">
+				<img src="../Common images/cart.png" alt="Logo" width="30px">
+			</a>
+		</div>
+	</div>
+
+	<div class="menu-bar">
+	<ul>
+	<li class="active"><a href="#"><i class="fa fa-fw fa-align-justify" aria-hidden="true"></i>Categories</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="../Other pagers/Categories -parties.html">Parties</a></li>
+			<li><a href="../Other pagers/Categeories-weddings.html">Weddings</a></li>
+			<li><a href="../Other pagers/Categeories-gifts.html">Gifts</a></li>
+			<li><a href="../Other pagers/Categories -funerals.html">Funerals</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="../Other pagers/flowers.html">Flowers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li class="hover-me"><a href="../Other pagers/flower type.html">Flower Type</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="../Other pagers/flower flower type rose.html">Ross</a></li>
+					<li><a href="../Other pagers/flower flower type lily.html">Lily</a></li>
+					<li><a href="../Other pagers/flower flower type tulip.html">Tulip</a></li>
+					<li><a href="../Other pagers/flower flower type deliya.html">Dahlia</a></li>
+				</ul>
+				</div>
+			</li>
+			
+			<li class="hover-me"><a href="../Other pagers/Flowers BoquetType.html">Bouquet Type</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="../Other pagers/Flowers BoquetType WeddingBoquet.html">Wedding</a></li>
+					<li><a href="../Other pagers/FLOWERS BOUQUET TYPE BIRTHDAY.html">Birthdays</a></li>
+					<li><a href="../Other pagers/FLOWERS BOUQUET TYPE ANNIVERSARY.html">Annivesary</a></li>
+					<li><a href="../Other pagers/FLOWERS BOUQUET TYPE THANK YOU.html">Thank You</a></li>
+					<li><a href="../Other pagers/FLOWERS BOUQUET TYPE GET WELL SOON.html">Get Well Soon</a></li>
+					<li><a href="../Other pagers/FLOWERS BOUQUET TYPE LOVE AND ROMANCE.html">Love And Romance</a></li>
+					<li><a href="../Other pagers/flower Wreaths.html">Wreaths</a></li>
+				</ul>
+				</div>
+			</li>
+			
+			<li class="hover-me"><a href="../Other pagers/Flowers Colour.html">Colour</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="../Other pagers/Flowers colour Red.html">Red</a></li>
+					<li><a href="../Other pagers/Flower Colour Pink.html">Pink</a></li>
+					<li><a href="../Other pagers/Flowers Colour White.html">White</a></li>
+					<li><a href="../Other pagers/Flowers Colour Yellow.html">Yellow</a></li>
+				</ul>
+				</div>
+			</li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="../Other pagers/same day delivery.html">Same Day Delivery</a></li>
+
+	<li><a href="../Other pagers/FRESH FLOWERS.html">Fresh Flowers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="../Other pagers/FRESH FLOWERS  ROSES.html">Ross</a></li>
+			<li><a href="../Other pagers/FRESH FLOWERS JUSMIN.html">Jasmine</a></li>
+			<li><a href="../Other pagers/FRESH FLOWERS LOTUS.html">Lotus</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="../Other pagers/offers.html">Offers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="../Other pagers/Offers ChristmasOffer.html">Christmas</a></li>
+			<li><a href="../Other pagers/Offers FlowershopOffers.html">Flower Shops</a></li>
+			<li><a href="../Other pagers/Offers SpecialOffers.html">Special Days</a></li>
+			<li><a href="../Other pagers/Offers DailyusersOffers.html">Daily Uses</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="../Other pagers/Create Your Own.html">Create Your Own</a></li>
+	</ul>
+	</div>
+	</div> 
+</div>
+</header>
+
+<body>
+<div class="main">
+	<div class="banner">
+		<img src="../images home/Home Page Banner.png" alt="Banner Image" width="100%">
+	</div>
+	<br>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/FLOWERS BOUQUET TYPE LOVE AND ROMANCE.html">
+			<img src="../images home/LOVE AND ROMANCE.png" alt="Snow" class="avatar0">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">LOVE AND ROMANCE</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/FLOWERS BOUQUET TYPE THANK YOU.html">
+			<img src="../images home/THANK YOU.webp" alt="Snow" class="avatar0">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">THANK YOU</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/FLOWERS BOUQUET TYPE GET WELL SOON.html">
+			<img src="../images home/expressing_the_love-300x300.webp" alt="Snow" class="avatar0">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">GET WELL SOON</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/FLOWERS BOUQUET TYPE BIRTHDAY.html">
+				<img src="../images home/Sweet-Smelling-600x600.webp" alt="Snow" class="avatar0">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">BIRTHDAY</p>
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/FLOWERS BOUQUET TYPE ANNIVERSARY.html">
+				<img src="../images home/Heart-Shape-Special-600x600.webp" alt="Snow" class="avatar0">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">ANNIVESARY</p>
+			</div>
+		</div>
+	</div>
+	
+
+	<br>
+	<p class="indented-paragraph">____ Latest <span class="indented-paragraph1">Products ____</span></p>
+	<br>
+	
+		<div class="product-container">
+		  <div class="product">
+			<img src="../images home/1.jpg" alt="Flower 1" width="230px">
+			<h4>Red Roses</h4>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star"></span>
+				<span class="fa fa-star"></span>
+			<p>Rs.6499</p>
+			<a href="../Other pagers/add to cart.html">
+			<button>Add to Cart</button>
+			</a>
+		  </div>
+
+		  <div class="product">
+			<img src="../images home/Pink Roses in a Box.webp" alt="Flower 2" width="230px">
+			<h4>Pink Roses in a Box</h4>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star"></span>
+				<span class="fa fa-star"></span>
+			<p>Rs.4500</p>
+			<a href="../Other pagers/add to cart.html">
+			<button>Add to Cart</button>
+			</a>
+		  </div>
+		
+		  <div class="product">
+			<img src="../images home/tulip_bouquet.jpg" alt="Flower 1" width="230px">
+			<h4>Tulip Bouquet</h4>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star"></span>
+				<span class="fa fa-star"></span>
+			<p>Rs.3990</p>
+			<a href="../Other pagers/add to cart.html">
+			<button>Add to Cart</button>
+			</a>
+		  </div>
+		  
+		  <div class="product">
+			<img src="../images home/Suns in the Basket.webp" alt="Flower 1" width="230px">
+			<h4>Suns in the Basket</h4>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star checked"></span>
+				<span class="fa fa-star"></span>
+				<span class="fa fa-star"></span>
+			<p>Rs.5000</p>
+			<a href="../Other pagers/add to cart.html">
+			<button>Add to Cart</button>
+			</a>
+		  </div>
+		</div>
+	<br>
+	<div class="product-container">
+	  <div class="product">
+		<img src="../images home/Sweet-Smelling.webp" alt="Flower 1" width="230px">
+		<h4>Sweet Smelling</h4>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star"></span>
+			<span class="fa fa-star"></span>
+			<span class="fa fa-star"></span>
+		<p>Rs.4500</p>
+		<a href="../Other pagers/add to cart.html">
+		<button>Add to Cart</button>
+		</a>
+	  </div>
+
+	  <div class="product">
+		<img src="../images home/dahlia-bouquet.jpg" alt="Flower 2" width="230px">
+		<h4>Dahlia Bouquet</h4>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star"></span>
+			<span class="fa fa-star"></span>
+		<p>Rs.7400</p>
+		<a href="../Other pagers/add to cart.html">
+		<button>Add to Cart</button>
+		</a>
+	  </div>
+	
+	  <div class="product">
+		<img src="../images home/Image.jpeg" alt="Flower 1" width="230px">
+		<h4>Carnation</h4>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star"></span>
+			<span class="fa fa-star"></span>
+		<p>Rs.5990</p>
+		<a href="../Other pagers/add to cart.html">
+		<button class="cart">Add to Cart</button>
+		</a>
+	  </div>
+	  
+	  <div class="product">
+		<img src="../images home/flower_box_with_ferrero.webp" alt="Flower 1" width="230px">
+		<h4>Flower Box With Ferrero</h4>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star checked"></span>
+			<span class="fa fa-star"></span>
+			<span class="fa fa-star"></span>
+			<span class="fa fa-star"></span>
+		<p>Rs.5100</p>
+		<a href="../Other pagers/add to cart.html">
+		<button class="cart">Add to Cart</button>
+		</a>
+	  </div>
+	</div>
+	<br>
+	<br>
+	<br>
+	<h3 class="indented-paragraph4"><b>SPECIAL BONUS</b></h3>
+	
+	<div class="categories">
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/Floral Elegance.webp" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">BASKET OF ROSES</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 6,095.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 6,950.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">10% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/Basket of Peach Roses.webp" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">BASKET OF ROSES</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 6,095.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 6,950.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">10% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/Floral Arch Pink.png" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">FLORAL ARCH - PINK</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 8,095.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 11,095.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="../images home/A Dream Come True.webp" alt="Snow" class="avatar">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">A DREAM COME TRUE</p>
+				<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 6,950.00</strike></p>
+				<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 4,500.00</p>
+				<p style="color: #928E8F; font-size: 14px; font-weight: bold;">25% OFF</p>
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="../images home/Nurturing Pink Bouquet.webp" alt="Snow" class="avatar">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">NURTURING PINK BOUQUET</p>
+				<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 10,500.00</strike></p>
+				<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 8,350.00</p>
+				<p style="color: #928E8F; font-size: 14px; font-weight: bold;">25% OFF</p>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+	<div class="center-banner">
+		<img src="../images home/center-banner-img.png" alt="center-banner" style="width:100%">
+		<a href="../Other pagers/flowers.html">
+		<button class="btn">Shop Now</button>
+		</a>
+	</div>
+	<br>
+	<br>
+	<br>
+	
+	<h3 class="indented-paragraph4"><b>FEATURED PRODUCTS</b></h3>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/Deep Love box.webp" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">Deep Love Box</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 6,950.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 6,095.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">10% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/Luscious Heart Arrangement.webp" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">Luscious Heart Arrangement</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 3,695.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 2,095.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">20% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/Heart Shape Special.webp" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">Heart Shape Special</p>
+			<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 9,950.00</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="../images home/Box of Titanic Rose.webp" alt="Snow" class="avatar">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">Box of Titanic Rose</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 7,095.00</p>
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="../images home/Bold Love Rose Arrangement.webp" alt="Snow" class="avatar">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">Bold Love Rose Arrangement</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 4,190.00</p>
+			</div>
+		</div>
+	</div>
+	<br>
+
+	<h2 class="indented-paragraph3"><center><b>CATEGORIES</b></center></h2><br>
+	
+	<div class="categories">
+	    <div class="categori-image">
+		  <div class="categori-text">
+			<img src="../images home/funerals.png" alt="Snow" width="250px">
+			<a href="../Other pagers/Categories -funerals.html">
+			<button>Shop Now</button>
+			</a>
+		  </div>
+		</div>
+
+		<div class="categori-image">
+		  <div class="categori-text">
+			<img src="../images home/weddings.png" alt="Snow" width="250px">
+			<a href="../Other pagers/Categeories-weddings.html">
+			<button>Shop Now</button>
+			</a>
+		  </div>
+		</div>
+		
+		<div class="categori-image">
+		  <div class="categori-text">
+			<img src="../images home/parties.png" alt="Snow" width="250px">
+			<a href="../Other pagers/Categories -parties.html">
+			<button>Shop Now</button>
+			</a>
+		  </div>
+		</div>
+		
+		<div class="categori-image">
+			<div class="categori-text">
+				<img src="../images home/gifts.png" alt="Snow" width="250px">
+				<a href="../Other pagers/Categeories-gifts.html">
+				<button>Shop Now</button>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<br>
+	<br>
+
+	
+	
+	
+	
+	
+	
+<div class="summary1">
+	<h3 class="indented-paragraph4"><b>FRESH FLOWERS</b></h3>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/fresh-flower-Roses.jpg" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">YELLOW OPULENCE</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 6,095.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 4,950.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">20% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/fresh-flower-Lilies.jpg" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">LILIS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 6,675.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 4,905.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">25% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/fresh-flower-Tulip.jpg" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">TULIP</p>
+			<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 11,095.00</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="../images home/fresh-flower-Sunflower.jpg" alt="Snow" class="avatar">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">SUNFLOWER</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 7,999.00</p>
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="../images home/fresh-flower-Hydrangea.webp" alt="Snow" class="avatar">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">HYDRANGEA</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 5,990.00</p>
+			</div>
+		</div>
+	</div>
+	
+		<h3 class="indented-paragraph4"><b>BOUQUETS</b></h3>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/orchid.png" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">ORCHID BOUQUET</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 12,595.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 7,950.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">25% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/redrose.webp" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">RED ROSE</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 5,590.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 3,999.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="../images home/orchids.webp" alt="Snow" class="avatar">
+		  </a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">ORCHIDS</p>
+			<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 6,450.00</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="../images home/mix-roses.jpg" alt="Snow" class="avatar">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">MIX ROSES</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 8,190.00</p>
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="../images home/lotus.jpg" alt="Snow" class="avatar">
+			</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">LOUTS</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs. 4,095.00</p>
+			</div>
+		</div>
+	</div>
+</div>
+<br>
+
+<div class="footer-subscribe">
+    <p><b>SUBSCRIBE TO US</b></p>
+	<br>
+			
+	<p>At wowflorists.com and embark on a seamless journey to ensure your products are delivered promptly.By subscribing to our </p>
+	<p>newsletters, you'll gain access to exclusive offers, exciting promotions, and more.Stay informed and be the first </p>
+	<p>to know about our latest updates, all designed to enhance your shopping experience. Join us </p>
+	<p>today and let's work together to make sure your orders arrive right on time.</p>
+	<br>
+    <form action="#" method="post">
+    <input type="email" name="email" placeholder="Your Email Address">
+    <input type="submit" value="Subscribe">
+    </form>
+</div>	
+	
+
+<footer>
+    <div class="footer-content">
+	
+		<div class="footer-section">
+			
+				<img src="../Common images/logo.png" width="130px" style="padding-top:25px; margin-left: 30px;">
+			
+		</div>
+	
+        <div class="footer-section">
+            <h3 style="padding: 0 9.5px;">Quick Links</h3>
+            <p><a href="../Home Page/WoWflorist.html">Home</a></p>
+            <p><a href="../Other pagers/About Us.html">About Us</a></p>
+            <p><a href="Contact Us.html">Contact Us</a></p>
+        </div>
+		
+        <div class="footer-section">
+			<h3>Contact Information</h3>
+			<p>No.8, Temple Road, Passara</p>
+			<p>Badulla, Sri Lanka</p>
+			<p>Email: info@wowflorists.com</p>
+			<p>Phone: 055-112-3456</p>
+        </div>
+		
+        <div class="footer-section">
+            <h3>Follow Us</h3>
+            <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+			<a href="https://www.youtube.com/" class="fa fa-youtube"></a>
+			<a href="#" class="fa fa-instagram"></a>
+        </div>
+    </div>
+	<br>
+    <p style="background-color: #7e0254; padding:4px">&copy; 2024 wowflorists.com | All Rights Reserved.</p>
+	
+</footer>
+
+</body>
+</html>
