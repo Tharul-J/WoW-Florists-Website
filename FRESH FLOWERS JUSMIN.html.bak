@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content= "width=device-width, user-scalable=no">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>WoWflorists.lk</title>
+	<link rel="stylesheet" type="text/css" href="other.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Shop</title>
+    <link rel="stylesheet" href="m css chat.css">
+</head>
+
+<header>
+<div class="fix">
+	<div class="header">
+		<div class="logo">
+			<a href="../Home Page/WoWflorist.html">
+				<img src="../Common images/minilogo.png" alt="Logo" width="85px">
+			</a>
+		</div>
+		
+		<div class="search-bar">
+			<input type="text" class="search-input" placeholder="Search for anything...">
+			<button type="submit" class="search-button">Search</button>
+		</div>
+		
+		<div class="space">
+			<p style="color: #C1427D; font-size: 14.5px; font-weight: bold; text-align: center;">Hotline</p>
+			<p style="color: #C1427D; font-size: 14.5px; font-weight: bold; text-align: center;">055 1123456</p>
+		</div>
+		
+		<div class="space">
+			<a href="../Other pagers/account.html">
+				<img src="../Common images/account.png" alt="Logo" width="75px">
+			</a>
+		</div>
+		
+		<div class="space">
+			<a href="../Other pagers/cart.html">
+				<img src="../Common images/cart.png" alt="Logo" width="30px">
+			</a>
+		</div>
+	</div>
+
+	<div class="menu-bar">
+	<ul>
+	<li class="active"><a href="#"><i class="fa fa-fw fa-align-justify" aria-hidden="true"></i>Categories</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="Categories -parties.html">Parties</a></li>
+			<li><a href="Categeories-weddings.html">Weddings</a></li>
+			<li><a href="Categeories-gifts.html">Gifts</a></li>
+			<li><a href="Categories -funerals.html">Funerals</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="flowers.html">Flowers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li class="hover-me"><a href="flower type.html">Flower Type</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="flower flower type rose.html">Roses</a></li>
+					<li><a href="flower flower type lily.html">Lily</a></li>
+					<li><a href="flower flower type tulip.html">Tulip</a></li>
+					<li><a href="flower flower type deliya.html">Dahlia</a></li>
+				</ul>
+				</div>
+			</li>
+			
+			<li class="hover-me"><a href="Flowers BoquetType.html">Bouquet Type</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="Flowers BoquetType WeddingBoquet.html">Wedding</a></li>
+					<li><a href="FLOWERS BOUQUET TYPE BIRTHDAY.html">Birthdays</a></li>
+					<li><a href="FLOWERS BOUQUET TYPE ANNIVERSARY.html">Annivesary</a></li>
+					<li><a href="FLOWERS BOUQUET TYPE THANK YOU.html">Thank You</a></li>
+					<li><a href="FLOWERS BOUQUET TYPE GET WELL SOON.html">Get Well Soon</a></li>
+					<li><a href="FLOWERS BOUQUET TYPE LOVE AND ROMANCE.html">Love And Romance</a></li>
+					<li><a href="flower Wreaths.html">Wreaths</a></li>
+				</ul>
+				</div>
+			</li>
+			
+			<li class="hover-me"><a href="Flowers Colour.html">Colour</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="Flowers colour Red.html">Red</a></li>
+					<li><a href="Flower Colour Pink.html">Pink</a></li>
+					<li><a href="Flowers Colour White.html">White</a></li>
+					<li><a href="Flowers Colour Yellow.html">Yellow</a></li>
+				</ul>
+				</div>
+			</li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="same day delivery.html">Same Day Delivery</a></li>
+
+	<li><a href="FRESH FLOWERS.html">Fresh Flowers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="FRESH FLOWERS  ROSES.html">Ross</a></li>
+			<li><a href="FRESH FLOWERS JUSMIN.html">Jasmine</a></li>
+			<li><a href="FRESH FLOWERS LOTUS.html">Lotus</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="offers.html">Offers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="Offers ChristmasOffer.html">Christmas</a></li>
+			<li><a href="Offers FlowershopOffers.html">Flower Shops</a></li>
+			<li><a href="Offers SpecialOffers.html">Special Days</a></li>
+			<li><a href="Offers DailyusersOffers.html">Daily Uses</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="Create Your Own.html">Create Your Own</a></li>
+	</ul>
+	</div>
+	</div> 
+</div>
+</header>
+
+<body>
+<div class="main">
+	<div class="banner">
+		<img src="images fresh flowers/Jasmine.png" alt="Banner Image" width="100%">
+	</div>
+	
+	<div class="nav-product">
+		<div class="navigation">
+			<p><a href="../Home Page/WoWflorist.html" class="nav-link">Home</a> 
+			<img src="../Common images/arrow-point-to-right.webp" alt="Banner Image" width="1%">
+			
+			<a href="FRESH FLOWERS.html" class="nav-link">Fresh Flowers</a> 
+			<img src="../Common images/arrow-point-to-right.webp" alt="Banner Image" width="1%">
+			
+			<a href="FRESH FLOWERS JUSMIN.html">
+			<button class="cart">Jasmine</button></a></p>
+		</div>
+	</div>
+<br>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="images fresh flowers/jb.jpg" alt="Snow" class="avatar">
+			</a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN BUDS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.5000.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.4500.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="images fresh flowers/jf.jpg" alt="Snow" class="avatar">
+			</a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN FLOWERS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>5000.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.4500.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		
+		
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="images fresh flowers/jbf.jpg" alt="Snow" class="avatar">
+				</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN BUDS X FLOWERS</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">5000.00</p>
+				
+			</div>
+		</div>
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="images fresh flowers/jg.jpg" alt="Snow" class="avatar">
+			</a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN GARLAND</p>
+			<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs.7500.00</p>
+			
+		  </div>
+		</div>
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="images fresh flowers/jgmf.png" alt="Snow" class="avatar">
+			</a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN GARLAND MIX FLOWERS</p>
+			<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs.8000.00</p>
+			
+		  </div>
+		</div>
+	</div>
+	
+	
+	<div class="categories">
+		<div class="categori-image1">
+		  <div class="card">
+		  <a href="../Other pagers/buy.html">
+			<img src="images fresh flowers/jba.jpg" alt="Snow" class="avatar">
+			</a>
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN BASKET</p>
+			<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs.3250.00</p>
+			
+		</div>
+	</div>
+		<div class="categori-image1">
+			<div class="card">
+			<a href="../Other pagers/buy.html">
+				<img src="images fresh flowers/jp.jpg" alt="Snow" class="avatar">
+				</a>
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN PLANT</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs.2800.00</p>
+				
+			</div>
+		</div>
+		</div>
+	</div>
+
+<div class="footer-subscribe">
+    <p>SUBSCRIBE TO US</p>
+	<br>
+			
+	<p>Subscribe to us at wowflorists.com and embark on a seamless journey to ensure your products are delivered promptly.By subscribing</p>
+    <p>to our newsletters, you'll gain access to exclusive offers, exciting promotions, and more.Stay informed and be </p>
+	<p>the first to know about our latest updates, all designed to enhance your shopping </p>
+	<p>experience. Join us today and let's work together to make sure your orders arrive right on time.</p>
+	<br>
+    <form action="#" method="post">
+    <input type="email" name="email" placeholder="Your Email Address">
+    <input type="submit" value="Subscribe">
+    </form>
+</div>	
+	
+
+<footer>
+    <div class="footer-content">
+	
+		<div class="footer-section">
+			
+				<img src="../Common images/logo.png" width="130px" style="padding-top:25px; margin-left: 30px;">
+			
+		</div>
+	
+        <div class="footer-section">
+            <h3 style="padding: 0 9.5px;">Quick Links</h3>
+            <p><a href="../Home Page/WoWflorist.html">Home</a></p>
+            <p><a href="About Us.html">About Us</a></p>
+            <p><a href="Contact Us.html">Contact Us</a></p>
+        </div>
+		
+        <div class="footer-section">
+            <h3>Contact Information</h3>
+			<p>No.8, Temple Road, Passara</p>
+			<p>Badulla, Sri Lanka</p>
+			<p>Email: info@wowflorists.com</p>
+			<p>Phone: 055-123-4567</p>
+        </div>
+		
+        <div class="footer-section">
+            <h3>Follow Us</h3>
+            <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+			<a href="https://www.youtube.com/" class="fa fa-youtube"></a>
+			<a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+        </div>
+    </div>
+	<br>
+    <p style="background-color: #7e0254; padding:4px">&copy; 2024 wowflorists.com | All Rights Reserved.</p>
+	
+</footer>
+
+</body>
+</html>

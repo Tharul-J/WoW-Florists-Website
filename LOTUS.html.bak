@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content= "width=device-width, user-scalable=no">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>WoWflorists.lk</title>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Shop</title>
+    <link rel="stylesheet" href="m css chat.css">
+</head>
+
+<header>
+<div class="fix">
+	<div class="header">
+		<div class="logo">
+			<a href="file:///C:/Users/ANUPAMA/Desktop/web%20site/WoWflorist.html">
+				<img src="minilogo.png" alt="Logo" width="85px">
+			</a>
+		</div>
+		
+		<div class="search-bar">
+			<input type="text" class="search-input" placeholder="Search for anything...">
+			<button type="submit" class="search-button">Search</button>
+		</div>
+		
+		<div class="space">
+			<p style="color: #C1427D; font-size: 14.5px; font-weight: bold; text-align: center;">Hotline</p>
+			<p style="color: #C1427D; font-size: 14.5px; font-weight: bold; text-align: center;">055 1123456</p>
+		</div>
+		
+		<div class="space">
+			<a href="file:///C:/Users/ANUPAMA/Desktop/web%20site/WOW%20FLORISTS-account/Account.html">
+				<img src="account.png" alt="Logo" width="75px">
+			</a>
+		</div>
+		
+		<div class="space">
+			<a href="file:///C:/Users/ANUPAMA/Desktop/web%20site/WOW%20FLORISTS-cart/cart.html">
+				<img src="cart.png" alt="Logo" width="30px">
+			</a>
+		</div>
+	</div>
+
+	<div class="menu-bar">
+	<ul>
+	<li class="active"><a href="#"><i class="fa fa-fw fa-align-justify" aria-hidden="true"></i>Categories</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="#">Parties</a></li>
+			<li><a href="#">Weddings</a></li>
+			<li><a href="#">Gifts</a></li>
+			<li><a href="#">Funerals</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="#">Flowers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li class="hover-me"><a href="#">Flower Type</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="#">Ross</a></li>
+					<li><a href="#">Lily</a></li>
+					<li><a href="#">Tulip</a></li>
+					<li><a href="#">Dahlia</a></li>
+				</ul>
+				</div>
+			</li>
+			
+			<li class="hover-me"><a href="#">Bouquet Type</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="#">Wedding</a></li>
+					<li><a href="#">Annivesary</a></li>
+					<li><a href="#">Thank You</a></li>
+					<li><a href="#">Flower Bunch</a></li>
+					<li><a href="#">Get Well Soon</a></li>
+					<li><a href="#">Love And Romance</a></li>
+				</ul>
+				</div>
+			</li>
+			
+			<li class="hover-me"><a href="#">Colour</a><i class="fa fa-angle-right"></i>
+				<div class="sub-menu-2">
+				<ul>
+					<li><a href="#">Red</a></li>
+					<li><a href="#">Pink</a></li>
+					<li><a href="#">White</a></li>
+					<li><a href="#">Yellow</a></li>
+					
+				</ul>
+				</div>
+			</li>
+			
+			<li><a href="#">Wreaths</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="file:///C:/Users/ANUPAMA/Desktop/web%20site/same%20day%20delivery/sameday.html">Same Day Delivery</a></li>
+
+	<li><a href="#">Fresh Flowers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="#">Ross</a></li>
+			<li><a href="#">Jasmine</a></li>
+			<li><a href="#">Lotus</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="#">Offers</a>
+		<div class="sub-menu-1">
+			<ul>
+			<li><a href="#">Christmas</a></li>
+			<li><a href="#">Flower Shops</a></li>
+			<li><a href="#">Special Days</a></li>
+			<li><a href="#">Daily Uses</a></li>
+			</ul>
+		</div>
+	</li>
+
+	<li><a href="file:///C:/Users/ANUPAMA/Desktop/web%20site/create%20your%20own/cretate%20your%20own.html">Create Your Own</a></li>
+	</ul>
+	</div>
+	</div> 
+</div>
+</header>
+
+<body>
+<div class="main">
+	<div class="banner">
+		<img src="banner.png" alt="Banner Image" width="100%">
+	</div>
+	<h3 class="indented-paragraph4"></h3>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+			<img src="wl.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">WHITE LOTUS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>RS.50.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.45.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+			<img src="rl.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">RED LOTUS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.50.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.45.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+			<img src="wlb.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">WHITE LOTUS BOUQUET</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.25000.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.22500.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+				<img src="rlb.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">RED LOTUS BOUQUET</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs 25000.00</p>
+				
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+				<img src="25l.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">25 LOTUS</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs.1500.00</p>
+				
+			</div>
+		</div>
+	</div>
+
+<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+			<img src="lt.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">LOTUS TOWER</p>
+			<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs.20000.00</p>
+			
+		  </div>
+		</div>
+		<div class="categori-image1">
+			<div class="card">
+				<img src="lwl.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">LOTUS WITH LEAVES</p>
+				<p style="color: #48020b; font-size: 14px; font-weight: bold;">Rs.8000.00</p>
+				
+			</div>
+		</div>
+		</div>
+</div>
+<div class="footer-subscribe">
+    <p>SUBSCRIBE TO US</p>
+	<br>
+			
+	<p>Subscribe to us at wowflorists.com and embark on a seamless journey to ensure your products are delivered promptly.By subscribing</p>
+    <p>to our newsletters, you'll gain access to exclusive offers, exciting promotions, and more.Stay informed and be </p>
+	<p>the first to know about our latest updates, all designed to enhance your shopping </p>
+	<p>experience. Join us today and let's work together to make sure your orders arrive right on time.</p>
+	<br>
+    <form action="#" method="post">
+    <input type="email" name="email" placeholder="Your Email Address">
+    <input type="submit" value="Subscribe">
+    </form>
+</div>	
+	
+
+<footer>
+    <div class="footer-content">
+	
+		<div class="footer-section">
+			
+				<img src="../Home Page/images/logo.png" width="130px" style="padding-top:25px; margin-left: 30px;">
+			
+		</div>
+	
+        <div class="footer-section">
+            <h3 style="padding: 0 9.5px;">Quick Links</h3>
+            <p><a href="#">Home</a></p>
+            <p><a href="#">About Us</a></p>
+            <p><a href="#">Contact Us</a></p>
+        </div>
+		
+        <div class="footer-section">
+            <h3>Contact Information</h3>
+            <p>123 Flower Street</p>
+            <p>City, State ZIP</p>
+            <p>Email: info@wowflorists.com</p>
+            <p>Phone: 123-456-7890</p>
+        </div>
+		
+        <div class="footer-section">
+            <h3>Follow Us</h3>
+            <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+			<a href="https://www.youtube.com/" class="fa fa-youtube"></a>
+			<a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+        </div>
+    </div>
+	<br>
+    <p style="background-color: #7e0254; padding:4px">&copy; 2024 wowflorists.com | All Rights Reserved.</p>
+	
+</footer>
+
+</body>
+</html>

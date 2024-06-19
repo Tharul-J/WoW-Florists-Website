@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>WOWflorists.lk</title>
+		<link rel="stylesheet" type="text/css" href="account.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	</head>
+	<body>
+		<div class="container" align="center">
+		<div class="left-part">
+			<a href="../Home Page/WoWflorist.html">
+				<img src="../Common images/minilogo.png" alt="Logo" width="90px">
+			</a>
+			<h2>SIGN IN TO ACCOUNT</h2>
+			<form method="post">
+				<div class="letters">
+					<h5>Email Address</h5>
+					<input type="email" placeholder="Enter your email address" required>
+					<h5>Password</h5>
+					<input type="password" placeholder="Enter your password" required><br><br>
+				</div>
+				<input type="button" onclick="alert('Email or Password is incorrect')" value="Sign In"><br>
+				<input type="button" value="&larr; Back to home">
+				<p>Don't have an account ? <a href="#" class="sign">sign up</a></p>
+				Forgot password ? <a href="#" class="re">Reset</a><br>
+				<hr>
+				<p align="center">OR</P>
+				<hr>
+				<a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+				<a href="https://accounts.google.com/" class="fa fa-google"></a>
+			</form>
+		</div>
+		<div class="right-part">
+			<img src="Images account/banner1.png" height="100%" width="100%" alt="banner" class="banner-image">
+		</div>
+		</div>
+	</body>
+<html>

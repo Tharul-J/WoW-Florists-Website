@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content= "width=device-width, user-scalable=no">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>WoWflorists.lk</title>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Shop</title>
+    <link rel="stylesheet" href="m css chat.css">
+</head>
+
+<header>
+<div class="fix">
+	<div class="header">
+		<div class="logo">
+			<a href="https://home.com">
+				<img src="minilogo.png" alt="Logo" width="85px">
+			</a>
+		</div>
+		
+		<div class="search-bar">
+			<input type="text" class="search-input" placeholder="Search for anything...">
+			<button type="submit" class="search-button">Search</button>
+		</div>
+		
+		<div class="space">
+			<a href="https://account.com">
+				<img src="account.png" alt="Logo" width="75px">
+			</a>
+		</div>
+		
+		<div class="space">
+			<a href="https://cart.com">
+				<img src="cart.png" alt="Logo" width="30px">
+			</a>
+		</div>
+	</div>
+
+<div class="menu-bar">
+<ul>
+<li class="active"><a href="#"><i class="fa fa-fw fa-align-justify" aria-hidden="true"></i>Categories</a>
+	<div class="sub-menu-1">
+		<ul>
+		<li><a href="#">Parties</a></li>
+		<li><a href="#">Weddings</a></li>
+		<li><a href="#">Gifts</a></li>
+		<li><a href="#">Funerals</a></li>
+		</ul>
+	</div>
+</li>
+
+<li><a href="#">Flowers</a>
+	<div class="sub-menu-1">
+		<ul>
+		<li class="hover-me"><a href="#">Flower Type</a><i class="fa fa-angle-right"></i>
+			<div class="sub-menu-2">
+			<ul>
+				<li><a href="#">Ross</a></li>
+				<li><a href="#">Lily</a></li>
+				<li><a href="#">Orchid</a></li>
+				<li><a href="#">Dahlia</a></li>
+		    </ul>
+			</div>
+		</li>
+		
+		<li class="hover-me"><a href="#">Bouquet Type</a><i class="fa fa-angle-right"></i>
+			<div class="sub-menu-2">
+			<ul>
+				<li><a href="#">Wedding Bouquet</a></li>
+				<li><a href="#">Flower Bunch</a></li>
+				<li><a href="#">Customize Bouquet</a></li>
+		    </ul>
+			</div>
+		</li>
+		
+		<li class="hover-me"><a href="#">Colour</a><i class="fa fa-angle-right"></i>
+			<div class="sub-menu-2">
+			<ul>
+				<li><a href="#">Red</a></li>
+				<li><a href="#">Pink</a></li>
+				<li><a href="#">White</a></li>
+				<li><a href="#">Blue</a></li>
+				<li><a href="#">Customize</a></li>
+		    </ul>
+			</div>
+		</li>
+		
+		<li><a href="#">Wreaths</a></li>
+		</ul>
+	</div>
+</li>
+
+<li><a href="#">Same Day Delivery</a></li>
+
+<li><a href="#">Fresh Flowers</a>
+	<div class="sub-menu-1">
+		<ul>
+		<li><a href="#">Ross</a></li>
+		<li><a href="#">Jasmine</a></li>
+		<li><a href="#">Lotus</a></li>
+		</ul>
+	</div>
+</li>
+
+<li><a href="#">Offers</a>
+	<div class="sub-menu-1">
+		<ul>
+		<li><a href="#">Christmas</a></li>
+		<li><a href="#">Flower Shops</a></li>
+		<li><a href="#">Special Days</a></li>
+		<li><a href="#">Daily Uses</a></li>
+		</ul>
+	</div>
+</li>
+
+<li class="active"><a href="#">Create Your Own</a></li>
+</ul>
+
+</div>
+
+
+</div> 
+
+</div>
+</header>
+
+<body>
+<div class="main">
+	<div class="banner">
+		<img src="banner.png" alt="Banner Image" width="100%">
+	</div>
+	<h3 class="indented-paragraph4"><b>Roses</b></h3>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+			<img src="single.jpg" alt="Snow" class="avatar" >
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">SINGLE RED ROSE</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.2000.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 1750.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+			<img src="r.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">RED ROSE BOUQUET</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.25000</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.23000</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+			<img src="rw.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">RED X WHITE ROSE BOUQUET</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.27000.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.25000.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+				<img src="multi.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">MULTI COLOUR ROSES</p>
+				<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 11,095.00</strike></p>
+				<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 11,095.00</p>
+				<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+				<img src="rb.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">BOX OF ROSES</p>
+				<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs. 11,095.00</strike></p>
+				<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs. 11,095.00</p>
+				<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+			</div>
+		</div>
+	</div>
+	<h3 class="indented-paragraph4"><b>Jusmin</b></h3>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+			<img src="jb.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN BUDS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.5000.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.4500</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+			<img src="jf.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN FLOWERS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>5000.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.4500.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+			<img src="jg.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN GARLAND</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.7500.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.7000.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+				<img src="jbf.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN BUDS X FLOWERS</p>
+				<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>5000.00</strike></p>
+				<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.4500.00</p>
+				<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+				<img src="jp.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">JUSMIN PLANTS</p>
+				<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.3000.00</strike></p>
+				<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.2500.00</p>
+				<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+			</div>
+		</div>
+	</div>
+	<h3 class="indented-paragraph4"><b>Lotus</b></h3>
+	
+	<div class="categories">
+	    <div class="categori-image1">
+		  <div class="card">
+			<img src="wl.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">WHITE LOTUS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>RS.50.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.45.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+
+		<div class="categori-image1">
+		  <div class="card">
+			<img src="rl.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">RED LOTUS</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.50.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.45.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+		  <div class="card">
+			<img src="wlb.jpg" alt="Snow" class="avatar">
+			<p style="color: #504E50; font-size: 11px; font-weight: bold;">WHITE LOTUS BOUQUET</p>
+			<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.25000.00</strike></p>
+			<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.22500.00</p>
+			<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+		  </div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+				<img src="rlb.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">RED LOTUS BOUQUET</p>
+				<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs 25000.00</strike></p>
+				<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.22500.00</p>
+				<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+			</div>
+		</div>
+		
+		<div class="categori-image1">
+			<div class="card">
+				<img src="25l.jpg" alt="Snow" class="avatar">
+				<p style="color: #504E50; font-size: 11px; font-weight: bold;">25 LOTUS</p>
+				<p style="color: #928E8F; font-size: 10px; font-weight: bold;"><strike>Rs.1500.00</strike></p>
+				<p style="color: #BB2F42; font-size: 14px; font-weight: bold;">Rs.1250.00</p>
+				<p style="color: #928E8F; font-size: 14px; font-weight: bold;">30% OFF</p>
+			</div>
+		</div>
+	</div>
+	
+	
+</div>
+
+
+
+
+
+
+
+
+
+<footer>
+    <p>- www.wowflorists.com -</p>
+    <p>&copy;  All rights reserved - 2024</p>
+</footer>
+
+</body>
+</html>

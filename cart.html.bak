@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>WOWflorists.lk</title>
+		<link rel="stylesheet" type="text/css" href="cart.css">
+	</head>
+	<body>
+		<center>
+		<a href="../Home Page/WoWflorist.html">
+			<img src="../Common images/minilogo.png" alt="Logo" width="90px">
+		</a>
+		</center>
+		<font face="arial">
+		<h2>YOUR CART</h2>
+		<center>
+		<img src="Images cart/cart.gif" width="350px" height="300px">
+		</center>
+		<p>No items in the cart</p>
+		<br>
+		<center>
+		<input type="submit" value="Continue to shopping">
+		</font>
+		</center>
+	</body>
+</html>
