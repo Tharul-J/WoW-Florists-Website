@@ -16,9 +16,9 @@
   }
   
  .fix {
-	position: fixed; /* Set the navbar to fixed position */ 
-	top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
+	position: fixed; 
+	top: 0; 
+    width: 100%; 
   }
   
  .header {
@@ -40,7 +40,7 @@
 
  .search-bar {
     flex: 1;
-    margin-left: 80px; /* Adjust spacing between logo and search bar */
+    margin-left: 80px; 
   }
 
  .search-input {
@@ -185,8 +185,8 @@
  
 .nav-product {
   line-height: 1.6;
-  flex: 0 0 auto; /* Prevent products from stretching */
-  margin-right: 0px; /* Adjust spacing between products */
+  flex: 0 0 auto; 
+  margin-right: 0px; 
   text-align: center;
   transition: 0.5s;
   font-family: sans-serif;
@@ -221,11 +221,11 @@
 
 .categories {
   display: flex;
-  flex-wrap: nowrap; /* Prevent wrapping to next line */
+  flex-wrap: nowrap;
   justify-content: center;
-  overflow-x: auto; /* Enable horizontal scroll if needed */
-    -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
-  margin-bottom: 20px; /* Space at the bottom */
+  overflow-x: auto; 
+    -webkit-overflow-scrolling: touch; 
+  margin-bottom: 20px; 
   }
 
 .categori-image1 {
@@ -234,8 +234,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  flex: 0 0 auto; /* Prevent products from stretching */
-  margin-right: 1px; /* Adjust spacing between products */   
+  flex: 0 0 auto; 
+  margin-right: 1px; 
 }
 
 .card {
@@ -342,7 +342,7 @@ footer a:hover {
     line-height: 1.9;
 }
         
-/* Media query for responsiveness */
+
 @media (max-width: 768px) {
 .footer-section {
     flex: 100%;
